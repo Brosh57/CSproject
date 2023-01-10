@@ -79,10 +79,3 @@ ll.deleteatbeg()
 ll.deleteatend()
 #ll.traversefront()
 ll.traverseend()
-
-            
-
-
-    
-
-    
